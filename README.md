@@ -9,10 +9,8 @@ This is a PyTorch implementation of the [NTIRE 2021 Image Deblurring Challenge -
 ## Proposed Algorithm
 - Network Architecture
 ![model_architecture](https://user-images.githubusercontent.com/59470033/111581860-5d7ed180-87fd-11eb-9203-c1e6d29ae155.png)
-- Edge Module
+- Edge Module & Feature Block
 ![Edge Feature](https://user-images.githubusercontent.com/59470033/111582406-1e04b500-87fe-11eb-9ddf-62b308c8fd21.png)
-- Feature Block
-![feature_block](https://user-images.githubusercontent.com/59470033/111581987-87d08f00-87fd-11eb-95b3-006b916564b4.png)
 - RDB(Residual Dense Block)
 ![RDB](https://user-images.githubusercontent.com/59470033/111581994-8a32e900-87fd-11eb-9e76-f87ec7e345f3.png)
 - ARCAB(ASPP Residual Channel Attention Block)
