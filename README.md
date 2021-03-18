@@ -20,7 +20,7 @@ In this work, we propose an edge module, ASPP Residential Channel Attachment Blo
 ![RDB_RG](https://user-images.githubusercontent.com/59470033/111582668-80f64c00-87fe-11eb-9480-4de0140e567e.png)
 
 ## Dataset
-We used the provided Datasets for training the proposed network.
+We used the Datasets provided by NTIRE 2021 challenge for training the proposed network.
 
 ## Experimental Rsults
 - PSNR - 27.00
