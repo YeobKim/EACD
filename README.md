@@ -10,7 +10,7 @@ This is a PyTorch implementation of the [NTIRE 2021 Image Deblurring Challenge -
 - Network Architecture
 ![model_architecture](https://user-images.githubusercontent.com/59470033/111581860-5d7ed180-87fd-11eb-9203-c1e6d29ae155.png)
 - Edge Module
-![Edge_Module](https://user-images.githubusercontent.com/59470033/111581945-78514600-87fd-11eb-8358-09668e32d847.png)
+![Edge Feature](https://user-images.githubusercontent.com/59470033/111582406-1e04b500-87fe-11eb-9ddf-62b308c8fd21.png)
 - Feature Block
 ![feature_block](https://user-images.githubusercontent.com/59470033/111581987-87d08f00-87fd-11eb-95b3-006b916564b4.png)
 - RDB(Residual Dense Block)
