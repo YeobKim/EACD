@@ -23,9 +23,9 @@ In this work, we propose an edge module, ASPP Residential Channel Attachment Blo
 We used the provided Datasets for training the proposed network.
 
 ## Experimental Rsults
-PSNR - 27.00
-SSIM - 0.7670
-Run Time per image - 0.012
+- PSNR - 27.00
+- SSIM - 0.7670
+- Run Time per image - 0.012
 
 ## Contact
 If you have any questions, please contact athurk94111@gmail.com.
