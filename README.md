@@ -8,7 +8,7 @@ In this work, we propose an edge module, ASPP Residential Channel Attachment Blo
 
 ## Proposed Algorithm
 - Network Architecture
-![model_architecture](https://user-images.githubusercontent.com/59470033/111581860-5d7ed180-87fd-11eb-9203-c1e6d29ae155.png)
+![model_architecture](https://user-images.githubusercontent.com/59470033/111621750-b4030480-882b-11eb-857c-715781ca7d84.png)
 
 - Edge Module & Feature Block
 ![Edge Feature](https://user-images.githubusercontent.com/59470033/111582406-1e04b500-87fe-11eb-9ddf-62b308c8fd21.png)
