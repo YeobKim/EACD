@@ -23,8 +23,13 @@ In this work, we propose an edge module, ASPP Residential Channel Attachment Blo
 We used the Datasets provided by [NTIRE 2021 challenge](https://data.vision.ee.ethz.ch/cvl/ntire21/) for training the proposed network.
 
 ## Experimental Rsults
+### Validation
 - PSNR - 27.00
 - SSIM - 0.7670
+- Run Time per image - 0.012
+### Test
+- PSNR - 27.41
+- SSIM - 0.7887
 - Run Time per image - 0.012
 
 ## Contact
