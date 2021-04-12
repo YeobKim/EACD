@@ -19,6 +19,11 @@ In this work, we propose an edge module, ASPP Residential Channel Attachment Blo
 - RDB(Residual Dense Block) & RG(Residual Group)
 ![RDB_RG](https://user-images.githubusercontent.com/59470033/111582668-80f64c00-87fe-11eb-9480-4de0140e567e.png)
 
+## Run
+'''
+python test.py
+'''
+
 ## Dataset
 We used the Datasets provided by [NTIRE 2021 challenge](https://data.vision.ee.ethz.ch/cvl/ntire21/) for training the proposed network.
 
