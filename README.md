@@ -37,7 +37,7 @@ We used the Datasets provided by [NTIRE 2021 challenge](https://data.vision.ee.e
   * PSNR - 27.00
   * SSIM - 0.7670
   * Run Time per image - 0.012
-*  Test
+* Test
   * PSNR - 27.41
   * SSIM - 0.7887
   * Run Time per image - 0.012
