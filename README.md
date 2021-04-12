@@ -20,7 +20,7 @@ In this work, we propose an edge module, ASPP Residential Channel Attachment Blo
 ![RDB_RG](https://user-images.githubusercontent.com/59470033/111582668-80f64c00-87fe-11eb-9480-4de0140e567e.png)
 
 ## Run
-'''
+'''c
 python test.py
 '''
 
